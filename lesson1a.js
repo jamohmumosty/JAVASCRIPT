@@ -1,0 +1,5 @@
+console.log("Hello world")
+console.log("welcome to modcom")
+console.log("welcome to our school")
+console.log("welcome home")
+console.log("welcome here")
