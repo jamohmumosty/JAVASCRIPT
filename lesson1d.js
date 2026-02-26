@@ -18,7 +18,7 @@ let pi=4.987
 // log the output
 console.log(age);
 console.log(pi);
-// 3.Boolean- is a datatype that cxan either True or False statement
+// 3.Boolean- is a datatype that can either be True or False statement
 let isAdult=false
 let isRegistered=true
 // log the output 
