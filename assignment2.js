@@ -10,7 +10,7 @@ else if (marks>=51 && marks<=70){
     console.log("above average")
 }
 else if(marks>=71 && marks <=100){
-    console.log("Exallent")
+    console.log("Exal lent")
 }
 else{
     console.log("invalid marks")
